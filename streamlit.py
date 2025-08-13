@@ -187,7 +187,7 @@ st.markdown(
 )
 
 # === Botón flotante ===
-url_web = "https://tu-pagina-web.com"  # Cambia por tu URL real
+url_web = "https://verapredictbreastcancer.web.app/"  # Cambia por tu URL real
 st.markdown(
     f'<a href="{url_web}" target="_blank" class="boton-flotante"><i class="fa-solid fa-globe"></i> Visita nuestra Web</a>',
     unsafe_allow_html=True
